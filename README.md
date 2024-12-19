@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Miguel Piñeiro, a Computer Science student, focusing mainly on Data Science
-- 🌱 I’m currently learning PyTorch.
+- 👋 Hi, I’m Miguel  
+- 🌱 I’m currently focusing mainly on Data Science/Engineering.
 - 📫 You can reach me at pineiro.c.s.mi@gmail.com
   
 
